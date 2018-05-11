@@ -14,7 +14,7 @@ public class Dummy {
 		System.out.println("hi");
 
 		
-		System.out.println("git");
+		
 	}
 
 }
